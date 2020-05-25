@@ -4,4 +4,4 @@ App that can detect the Bluetooth A2DP connection and disconnection as well as s
 ## To eneable auto start:
 Go to Phone settings -> Accessibility -> MusicControlWidget -> Turn the toggle on, done
 
-* I really do have to work on UI *
+#### I really do have to work on UI
